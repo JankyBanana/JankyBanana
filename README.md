@@ -1,7 +1,7 @@
 # About me
 
 - Working on assorted 3D printed things
-- Studying mechanical engineering
-- Mainly python 3
+- Studying mechatronic engineering and computer science
+- Languages: Python, C 
 - He/Him 
 - Rock climber
